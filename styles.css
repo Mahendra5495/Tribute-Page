@@ -1,0 +1,76 @@
+body {
+  font-size: 17px;
+  font-family: "Acme", sans-serif;
+  color: #ddd;
+  background-color: #dafaf8;
+}
+main {
+  background-color: #222;
+  border-radius: 0.5rem;
+  width: 100%;
+  margin: 1rem auto;
+}
+h1 {
+  padding: 1.2rem;
+  font-size: 2.5em;
+  margin-bottom: 0;
+  font-size: 3rem;
+}
+.text {
+  text-transform: capitalize;
+  margin-top: 0;
+}
+img {
+  margin: 0 auto;
+  display: block;
+  height: auto;
+  max-width: 60%;
+  border-radius: 0.7em;
+}
+figure {
+  background-color: #fadacb;
+  padding: 2em 2em 0.5em;
+  margin: 1.5em;
+  border-radius: 0.5rem;
+}
+figcaption {
+  margin: 1rem auto;
+  color: #223;
+  font-weight: 600;
+}
+section {
+  max-width: 80%;
+  margin: 0.5rem auto;
+}
+.list {
+  margin: 1em auto;
+  list-style: decimal;
+  max-width: 480px;
+}
+.item {
+  padding: 1rem 0;
+}
+.quote {
+  padding: 0.5rem;
+  margin: 0.7em auto;
+  font-style: italic;
+  max-width: 550px;
+}
+h4 {
+  font-size: 1.2rem;
+  padding: 1rem 0 1.5rem 0;
+  margin: 0.5rem auto;
+}
+.center {
+  text-align: center;
+}
+a {
+  color: #447ca7;
+}
+a:hover {
+  color: #aabb00;
+  text-decoration: underline;
+}
+h1#title {
+  color: #ffec00;
+}
